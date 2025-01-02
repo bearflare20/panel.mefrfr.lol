@@ -1,2 +1,2 @@
 # Server Down
-Due to a fear of a power shut off **the server is now down.** Good day!
+This pi is **solely mine** so it is being used for emulation now. Good day!
